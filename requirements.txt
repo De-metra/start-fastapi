@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+pydantic
+environs
+pydantic[email]
+psycopg2-binary
+asyncpg
+databases[asyncpg]
